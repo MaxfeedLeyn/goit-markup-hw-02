@@ -63,6 +63,9 @@ h2 {
 .header-address-item{
     line-height: 150%;
     letter-spacing: 0.02em;
+}
+
+.header-address-item-link{
     color: #434455;
 }
 
@@ -183,7 +186,7 @@ h2 {
     font-family: "Raleway", sans-serif;
 }
 
-.footer-logo-first{
+.footer-logo-second{
     color: #f4f4fd;
 }
 
